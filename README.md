@@ -1,2 +1,2 @@
 # READMD.md
-Just a simple templated for GitHub Classroom
+Just a simple template for GitHub Classroom
